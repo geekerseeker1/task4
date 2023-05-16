@@ -1,0 +1,14 @@
+{
+    "name": "user-registration",
+    "version": "1.0.0",
+    "description": "User registration and details rendering",
+    "dependencies": {
+      "express": "^4.17.1",
+      "ejs": "^3.1.6",
+      "mysql2": "^2.3.2",
+      "jsonwebtoken": "^8.5.1",
+      "bcrypt": "^5.0.1",
+      "dotenv": "^10.0.0"
+    }
+  }
+  
